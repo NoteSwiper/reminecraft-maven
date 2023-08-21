@@ -1,30 +1,47 @@
 # reminecraft/reminecraft-maven
 
-An ripoff of minecraft but uses maven
+A `ripoff` of minecraft, but uses maven.
 
-## Getting Started
+## Usage
 
-Download links:
+### BitBucket User
 
-SSH clone URL: ssh://git@git.jetbrains.space/noteswiper/reminecraft/reminecraft-maven.git
+Download repository using `HTTPS`:
 
-HTTPS clone URL: https://git.jetbrains.space/noteswiper/reminecraft/reminecraft-maven.git
+```bash
+git clone https://NoteSwiper@bitbucket.org/reminecraft/reminecraft-maven.git
+```
 
-
+or `SSH`:
+```bash
+git clone git@bitbucket.org:reminecraft/reminecraft-maven.git
+```
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Prerequisites
 
-What things you need to install the software and how to install them.
+I highly recommended using `Eclipse IDE` or `Jetbrains IDEA`.
 
-```
-Examples
-```
+Installing the dependencies only one step, run the `maven build`. (on the commandline, type `mvn build` and enter)
 
 ## Deployment
 
-Add additional notes about how to deploy this on a production system.
+1. download the repository of this project, or clone the repository with `Git`.
+1. The repository will downloaded with `Zip Archive`, so extract the ZIP file. you can skip this step if using `Git`.
+1. Open your favorite IDE. this step will be separated by IDE, see the step related by IDE.
+
+## Issue tracker
+
+|System|URL|
+|:-:|:-:|
+|Jira|[https://bitbucket.org/reminecraft/reminecraft-maven/jira](https://bitbucket.org/reminecraft/reminecraft-maven/jira)|
+
+## Documentation
+
+See the Wiki in BitBucket
+
+[https://bitbucket.org/reminecraft/reminecraft-maven/wiki/Home](https://bitbucket.org/reminecraft/reminecraft-maven/wiki/Home)
 
 ## Resources
 
